@@ -3,6 +3,8 @@
 * The state-wise extracted data is displayed in the tkinter window through treeview, while four distinct buttons have been created to enable the user to see the bar graphs for each of the statistics (the total confirmed cases, recovered cases, active cases and deaths), state-wise.
 * The system also gets the real time location of the user (from the website: https://ipinfo.io/) and notifies her/him with the statistics of her/his state as per the location fetched.
 
+![COVID-19 Notification and Dashboard System](https://github.com/Varada-D/Covid19-Notification-and-Dashboard/blob/main/logo.png)
+
 # Required Libraries
 * ***PLYER***: for desktop notifications
 * ***REQUESTS***: fetch the source code of the web page from where the data is to be extracted
