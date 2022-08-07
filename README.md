@@ -17,5 +17,5 @@
 * thankYou.png
 
 # Project Report and Demo
-* For more details about the project and the libraries used, please refer "Project Report - Covid19StatisticsNotificationAndDashboardSystem.pdf"
-* For demo and code explanation, please refer "Demo Video - COVID19 Statistics Notification and Dashboard System.mp4"
+* For more details about the project and the libraries used, please refer the [Project Report](https://github.com/Varada-D/Covid19-Notification-and-Dashboard/blob/main/Project%20Report%20-%20Covid19StatisticsNotificationAndDashboardSystem.pdf)
+* For demo and code explanation, please refer the [Demo Video](https://github.com/Varada-D/Covid19-Notification-and-Dashboard/blob/main/Demo%20Video%20-%20COVID19%20Statistics%20Notification%20and%20Dashboard%20System.mp4)
